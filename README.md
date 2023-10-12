@@ -17,10 +17,10 @@
 
 #### Harmonogram
 
->- **TBD** - Laboratoria - omówienie tematów projektów.
->- Do **TBD** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
->- **TBD** - Laboratoria - konsultacje.
->- **TBD** - Prezentacje projektów.
+>- **10.11** - Laboratoria - omówienie tematów projektów.
+>- Do **8.12** grupy projektowe mogą zgłaszać własne propozycje tematów (wraz z tematem 'rezerwowym' z listy prowadzących na wypadek braku akcpetacji tematu zaproponowanego).
+>- **12.01, 16.01** - Laboratoria - konsultacje.
+>- **19.01, 23.01** - Prezentacje projektów.
 
 <br>
 
@@ -29,3 +29,8 @@
 - [Lista tematów](ListaZadan/tematyProjektów.md)
 
 ## Laboratorium 1
+
+- [Lista zadań](ListaZadan/lab1/lista-lab1.md)
+- [Rozwiązania]()
+
+## Laboratorium 2
