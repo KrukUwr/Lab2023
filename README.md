@@ -31,5 +31,6 @@
 ## Laboratorium 1
 
 - [Lista zadań](ListaZadan/lab1/lista-lab1.md)
+- [Prezentacja](ListaZadan/lab1/Lab1_Prezentacja)
 
 ## Laboratorium 2
