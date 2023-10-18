@@ -34,3 +34,5 @@
 - [Prezentacja](ListaZadan/lab1/Lab1_Prezentacja)
 
 ## Laboratorium 2
+
+- [Lista zadań](ListaZadan/lab2/lista-lab2.md)
