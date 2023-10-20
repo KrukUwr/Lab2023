@@ -32,6 +32,7 @@
 
 - [Lista zadań](ListaZadan/lab1/lista-lab1.md)
 - [Prezentacja](ListaZadan/lab1/Lab1_Prezentacja)
+- [Rozwiązania](ListaZadan/lab1/lab1_rozwiazania.R)
 
 ## Laboratorium 2
 
