@@ -40,4 +40,4 @@
 
 ## Laboratorium 4 - estymacja błędu prognozy
 
-- [Lista zadań](ListaZadan/04_ListaBłądPredykcji.md)
+- [Lista zadań](04_ListaBłądPredykcji.md)
