@@ -37,3 +37,7 @@
 ## Laboratorium 2
 
 - [Lista zadań](ListaZadan/lab2/lista-lab2.md)
+
+## Laboratorium 4 - estymacja błędu prognozy
+
+- [Lista zadań](ListaZadan/04_ListaBłądPredykcji.md)
