@@ -38,6 +38,13 @@
 
 - [Lista zadań](ListaZadan/lab2/lista-lab2.md)
 
+## Laboratorium 3
+
+- [Lista zadań](ListaZadan/lab3/lista-lab3.md)
+- [Skrypt do przygotowania danych](ListaZadan/lab3/lab3-data-preparation.R)
+- [Prezentacja](ListaZadan/lab3/Lab3_Prezentacja)
+
+
 ## Laboratorium 4 - estymacja błędu prognozy
 
 - [Lista zadań](04_ListaBłądPredykcji.md)
