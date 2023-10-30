@@ -37,7 +37,7 @@
 ## Laboratorium 2
 
 - [Lista zadań](ListaZadan/lab2/lista-lab2.md)
-- [Lista zadań](ListaZadan/lab2/lista-razwiazania.R)
+- [Razwiazania](ListaZadan/lab2/lab2-razwiazania.R)
 
 ## Laboratorium 3
 
