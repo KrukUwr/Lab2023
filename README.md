@@ -42,7 +42,7 @@
 ## Laboratorium 3
 
 - [Lista zadań](ListaZadan/lab3/lista-lab3.md)
-- [Skrypt do przygotowania danych](ListaZadan/lab3/lab3-data-preparation.R)
+- [Skrypt do przygotowania danych](ListaZadan/lab3/lab3-data-preparation.R) - nowa wersja, bez biblioteki caret
 - [Prezentacja](ListaZadan/lab3/Lab3_Prezentacja)
 
 
