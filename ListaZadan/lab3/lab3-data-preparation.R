@@ -1,16 +1,24 @@
 
+load("../../KrukUWr2023.RData")
+library(data.table)
+
 set.seed(123)
 
-samples <- caret::createFolds(
-  y = cases$CaseId, 
-  k=3)
+cases[,Fold:=sample(1:3, size=.N, replace = TRUE)]
+
+samples <- split(cases, cases$Fold)
+
+# niedzialajacy niektorym osobom fragment z funkcja z biblioteki caret
+# samples <- caret::createFolds(
+#   y = cases$CaseId, 
+#   k=3)
 
 events[is.na(PaymentAmount), PaymentAmount:=0.0]
 events[is.na(NumberOfPayment), NumberOfPayment:=0]
 
 payments_12m <- events[,.(
-    IfPayment = as.integer(sum(NumberOfPayment)>0), 
-    SumOfPayments = sum(PaymentAmount)),
+  IfPayment = as.integer(sum(NumberOfPayment)>0), 
+  SumOfPayments = sum(PaymentAmount)),
   by = .(CaseId)]
 
 features_cols <- names(cases)
