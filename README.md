@@ -51,3 +51,5 @@
 - [Lista zadań](04_ListaBłądPredykcji.md)
 - [Rozwiązania](ListaZadan/Lab4_rozwiazania.r)
 - [Prezentacja](ListaZadan/Laboratorium4.pdf)
+
+## Laboratorium 5 - omówienie tematów projektów
