@@ -53,3 +53,5 @@
 - [Prezentacja](ListaZadan/Laboratorium4.pdf)
 
 ## Laboratorium 5 - omówienie tematów projektów
+
+- [notatki](ListaZadan/projekty_tablica.pdf)
