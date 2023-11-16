@@ -55,3 +55,10 @@
 ## Laboratorium 5 - omówienie tematów projektów
 
 - [notatki](ListaZadan/projekty_tablica.pdf)
+
+## Laboratorium 6
+
+- [Lista zadań](ListaZadan/lab6/lista-lab6.md)
+- [Prezentacja](ListaZadan/lab6/Lab6_Prezentacja)
+
+
