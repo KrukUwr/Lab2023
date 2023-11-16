@@ -1,0 +1,14 @@
+
+p, ol, ul, table {
+	font-size: 23px !important;
+}
+
+#TOC > nav > ul > li {
+  font-size: 17px !important;
+}
+
+/*
+#k-means > p, #k-means > ul > li, #k-means > ul > li > ul > li {
+  font-size: 18px !important;
+}
+*/
