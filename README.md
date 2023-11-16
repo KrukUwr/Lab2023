@@ -44,6 +44,7 @@
 - [Lista zadań](ListaZadan/lab3/lista-lab3.md)
 - [Skrypt do przygotowania danych](ListaZadan/lab3/lab3-data-preparation.R) - nowa wersja, bez biblioteki caret
 - [Prezentacja](ListaZadan/lab3/Lab3_Prezentacja)
+- [Rozwiązania](ListaZadan/lab3/Lab3_Rozwiazania) 
 
 
 ## Laboratorium 4 - estymacja błędu prognozy
