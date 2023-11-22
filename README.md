@@ -62,4 +62,9 @@
 - [Lista zadań](ListaZadan/lab6/lista-lab6.md)
 - [Prezentacja](ListaZadan/lab6/Lab6_Prezentacja)
 
+## Laboratorium 8 - analiza głównych składowych
+
+- [Lista zadań](ListaZadan/08_ListaPCA.md)
+
+
 
