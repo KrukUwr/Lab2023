@@ -72,5 +72,9 @@
 - [Rozwiązania](ListaZadan/Lab8_rozwiazania.R) (rozwikłanie szwajcarskiej rolki +1 do oceny)
 - [Prezentacja](ListaZadan/08_PrezentacjaPCA.pdf)
 
+## Laboratorium 9 - regresja liniowa
+
+- [Lista zadań](ListaZadan/09_ListaRegresjaLiniowa.md)
+
 
 
