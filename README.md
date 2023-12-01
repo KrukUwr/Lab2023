@@ -69,7 +69,7 @@
 ## Laboratorium 8 - analiza głównych składowych
 
 - [Lista zadań](ListaZadan/08_ListaPCA.md)
-- [Rozwiązania](ListaZadan/Lab8_rozwiazania.r) - próba "rozwiązania" szwajcarskiej rolki +1 do oceny
+- [Rozwiązania](ListaZadan/Lab8_rozwiazania.R) (rozwikłanie szwajcarskiej rolki +1 do oceny)
 - [Prezentacja](ListaZadan/08_PrezentacjaPCA.pdf)
 
 
