@@ -75,6 +75,11 @@
 ## Laboratorium 9 - regresja liniowa
 
 - [Lista zadań](ListaZadan/09_ListaRegresjaLiniowa.md)
+- [Rozwiązania](ListaZadan/09_ListaRozwiazania.R)
+- [Prezentacja](ListaZadan/09_PrezentacjaRegresja.pdf)
 
+## Laboratorium 10 - dobór cech + sieci neuronowe z podziałem na portfele
+
+- [Lista zadań](ListaZadan/10_ListaDoborCech.md)
 
 
