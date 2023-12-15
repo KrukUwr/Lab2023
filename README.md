@@ -81,5 +81,8 @@
 ## Laboratorium 10 - dobór cech + sieci neuronowe z podziałem na portfele
 
 - [Lista zadań](ListaZadan/10_ListaDoborCech.md)
+- [Rozwiązania](ListaZadan/10_Lista_rozwiazania.r)
+- [Rozwiązania NN](ListaZadan/10_ListaNN_rozwiazania.r)
+- [Prezentacja](ListaZadan/DeepLearningBooklet.pdf)
 
 
