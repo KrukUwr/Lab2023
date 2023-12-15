@@ -83,6 +83,6 @@
 - [Lista zadań](ListaZadan/10_ListaDoborCech.md)
 - [Rozwiązania](ListaZadan/10_Lista_rozwiazania.r)
 - [Rozwiązania NN](ListaZadan/10_ListaNN_rozwiazania.r)
-- [Prezentacja](ListaZadan/DeepLearningBooklet.pdf)
+- [Deep learning booklet 2023](ListaZadan/DeepLearningBooklet.pdf)
 
 
