@@ -85,6 +85,6 @@
 - [Rozwiązania NN](ListaZadan/10_ListaNN_rozwiazania.r)
 - [Deep learning booklet 2023](ListaZadan/DeepLearningBooklet.pdf)
 
-## Laboratorium 11 - GLM-Logit, WoE
+## Laboratorium 11 - GLM-Logit, IV, WoE
 
 - [Lista zadań](ListaZadan/11_ListaGLM.md)
