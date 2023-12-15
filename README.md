@@ -84,8 +84,8 @@
 - [Rozwiązania](ListaZadan/10_Lista_rozwiazania.r)
 - [Rozwiązania NN](ListaZadan/10_ListaNN_rozwiazania.r)
 - [Deep learning booklet 2023](ListaZadan/DeepLearningBooklet.pdf)
-
-![Wykres](ListaZadan/wykres.jpg?raw=true "Odchylenia")
+- [Wykres - portele skupione vs szerokie](ListaZadan/wykres.jpg)
+/oś x - odchylenie modelu per sprawa (MSE), oś y - średnie odchylenie portfela/
 
 ## Laboratorium 11 - GLM-Logit, IV, WoE
 
