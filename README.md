@@ -85,7 +85,7 @@
 - [Rozwiązania NN](ListaZadan/10_ListaNN_rozwiazania.r)
 - [Deep learning booklet 2023](ListaZadan/DeepLearningBooklet.pdf)
 
-![Alt text](ListaZadan/wykres.jpg "Title")
+![Wykres](ListaZadan/wykres.jpg?raw=true "Odchylenia")
 
 ## Laboratorium 11 - GLM-Logit, IV, WoE
 
