@@ -14,7 +14,7 @@ library(InformationValue)
 
 Przygotuj dane do budowy modelu, spełniając następujące warunki:
 
-* Zdefiniuj zmienną modelowaną bazując na zbiorze danych `events` (np. czy klient wpłacił więcej niż 300 zł w pierwszych
+* Zdefiniuj zmienną modelowaną bazując na zbiorze danych `events` (np. czy klient wpłacił więcej niż 300 w pierwszych
 6 miesiącach obsługi).
 
 * Imputuj braki danych tam gdzie widzisz tego sens.
