@@ -25,7 +25,7 @@
 >   - rozwiązanie;
 >   - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe);
 >   - ryzyka związane z wybranym podejściem do rozwiązania;
->   - jak najbardziej można chwalić się dodatkowymi sprawdzeniami, które nie trafiły do ostatecznego rozwiązania.
+>   - dodatkowe sprawdzenia, które nie trafiły do ostatecznego rozwiązania.
 
 #### Harmonogram
 
