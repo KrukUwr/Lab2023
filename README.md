@@ -14,18 +14,18 @@
 >- Problem do rozwiązania może być wybrany spośród zaproponowanych przez prowadzących lub zgłoszony przez grupę projektową (wymagana akceptacja prowadzących).
 >- Grupy projektowe będą liczyć 2-3 osoby.
 >- Czas przeznaczony na zaprezentowanie projektu będzie wynosić maksymalnie 15 minut.
->- Prezentuje każdy z członków zespołu
->- Pytania mogę być kierowane do każdego uczestnika
+>- Prezentuje każdy z członków zespołu.
+>- Pytania mogę być kierowane do każdego uczestnika.
 >- Prezentacja powinna zawierać:
->   - temat
->   - zarys problemu wynikający z tematu
->   - opis danych, eksploracja, opis cech pochodnych, imputacja braków, przekształcenia, etc.
->   - zarys podejścia do rozwiązania problemu (opis, wykresy, grafiki)
->   - przyjęte założenia (definicja, horyzonty, jednostki statystyczne, miary jakości, etc.)
->   - rozwiązanie
->   - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe)
->   - ryzyka związane z wybranym podejściem do rozwiązania
->   - jak najbardziej można chwalić się dodatkowymi sprawdzeniami, które nie trafiły do ostatecznego rozwiązania
+>   - temat;
+>   - zarys problemu wynikający z tematu;
+>   - opis danych, eksploracja, opis cech pochodnych, imputacja braków, przekształcenia, etc.;
+>   - zarys podejścia do rozwiązania problemu (opis, wykresy, grafiki);
+>   - przyjęte założenia (definicja, horyzonty, jednostki statystyczne, miary jakości, etc.);
+>   - rozwiązanie;
+>   - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe);
+>   - ryzyka związane z wybranym podejściem do rozwiązania;
+>   - jak najbardziej można chwalić się dodatkowymi sprawdzeniami, które nie trafiły do ostatecznego rozwiązania.
 
 #### Harmonogram
 
