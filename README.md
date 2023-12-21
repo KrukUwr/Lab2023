@@ -9,7 +9,7 @@
 
 ### Projekt zaliczeniowy
 
-#### Zasady i wskazówki do projektów zaliczeniowych:
+#### Zasady i wskazówki:
 >- Projekt zaliczeniowy będzie polegać na wykonaniu analizy wybranego problemu biznesowego.
 >- Problem do rozwiązania może być wybrany spośród zaproponowanych przez prowadzących lub zgłoszony przez grupę projektową (wymagana akceptacja prowadzących).
 >- Grupy projektowe będą liczyć 2-3 osoby.
