@@ -14,8 +14,8 @@
 >- Problem do rozwiązania może być wybrany spośród zaproponowanych przez prowadzących lub zgłoszony przez grupę projektową (wymagana akceptacja prowadzących).
 >- Grupy projektowe będą liczyć 2-3 osoby.
 >- Czas przeznaczony na zaprezentowanie projektu będzie wynosić maksymalnie 15 minut.
->- prezentuje każdy z członków zespołu
->- pytania mogę być kierowane do każdego uczestnika
+>- Prezentuje każdy z członków zespołu
+>- Pytania mogę być kierowane do każdego uczestnika
 >- Prezentacja powinna zawierać:
 >   - temat
 >   - zarys problemu wynikający z tematu
