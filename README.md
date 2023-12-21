@@ -9,11 +9,23 @@
 
 ### Projekt zaliczeniowy
 
-#### Zasady
+#### Zasady i wskazówki do projektów zaliczeniowych:
 >- Projekt zaliczeniowy będzie polegać na wykonaniu analizy wybranego problemu biznesowego.
 >- Problem do rozwiązania może być wybrany spośród zaproponowanych przez prowadzących lub zgłoszony przez grupę projektową (wymagana akceptacja prowadzących).
 >- Grupy projektowe będą liczyć 2-3 osoby.
 >- Czas przeznaczony na zaprezentowanie projektu będzie wynosić maksymalnie 15 minut.
+>- prezentuje każdy z członków zespołu
+>- pytania mogę być kierowane do każdego uczestnika
+>- Prezentacja powinna zawierać:
+>- temat
+> - zarys problemu wynikający z tematu
+> - opis danych, eksploracja, opis cech pochodnych, imputacja braków, przekształcenia, etc.
+> - zarys podejścia do rozwiązania problemu (opis, wykresy, grafiki)
+> - przyjęte założenia (definicja, horyzonty, jednostki statystyczne, miary jakości, etc.)
+> - rozwiązanie
+> - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe)
+> - ryzyka związane z wybranym podejściem do rozwiązania
+> - jak najbardziej można chwalić się dodatkowymi sprawdzeniami, które nie trafiły do ostatecznego rozwiązania
 
 #### Harmonogram
 
@@ -27,22 +39,6 @@
 ## Tematy projektów zaliczeniowych
 
 - [Lista tematów](ListaZadan/tematyProjektów.md)
-
-# Wskazówki do projektów zaliczeniowych:
-- czas na prezentację projektu do 15 minut
-- zespoły do 3 osób
-- prezentuje każdy z członków zespołu
-- pytania mogę być kierowane do każdego uczestnika
-- Prezentacja powinna zawierać:
- - temat
- - zarys problemu wynikający z tematu
- - opis danych, eksploracja, opis cech pochodnych, imputacja braków, przekształcenia, etc.
- - zarys podejścia do rozwiązania problemu (opis, wykresy, grafiki)
- - przyjęte założenia (definicja, horyzonty, jednostki statystyczne, miary jakości, etc.)
- - rozwiązanie
- - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe)
- - ryzyka związane z wybranym podejściem do rozwiązania
- - jak najbardziej można chwalić się dodatkowymi sprawdzeniami, które nie trafiły do ostatecznego rozwiązania
 
 
 ## Laboratorium 1
