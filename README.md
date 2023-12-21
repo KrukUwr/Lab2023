@@ -28,6 +28,23 @@
 
 - [Lista tematów](ListaZadan/tematyProjektów.md)
 
+# Wskazówki do projektów zaliczeniowych:
+- czas na prezentację projektu do 15 minut
+- zespoły do 3 osób
+- prezentuje każdy z członków zespołu
+- pytania mogę być kierowane do każdego uczestnika
+- Prezentacja powinna zawierać:
+ - temat
+ - zarys problemu wynikający z tematu
+ - opis danych, eksploracja, opis cech pochodnych, imputacja braków, przekształcenia, etc.
+ - zarys podejścia do rozwiązania problemu (opis, wykresy, grafiki)
+ - przyjęte założenia (definicja, horyzonty, jednostki statystyczne, miary jakości, etc.)
+ - rozwiązanie
+ - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe)
+ - ryzyka związane z wybranym podejściem do rozwiązania
+ - jak najbardziej można chwalić się dodatkowymi sprawdzeniami, które nie trafiły do ostatecznego rozwiązania
+
+
 ## Laboratorium 1
 
 - [Lista zadań](ListaZadan/lab1/lista-lab1.md)
