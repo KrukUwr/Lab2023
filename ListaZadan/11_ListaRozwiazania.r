@@ -1,5 +1,5 @@
 
-setwd("C:/Users/micha/Desktop/Lab11")
+setwd("")
 load("KrukUWr2023.RData")
 
 library(data.table)
