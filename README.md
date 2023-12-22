@@ -104,3 +104,7 @@
 
 - [Lista zadań](ListaZadan/11_ListaGLM.md)
 - [Rozwiązania](ListaZadan/11_ListaRozwiazania.r)
+
+## Laboratorium 12 - GAM-Logit, portfele, concurvity
+
+- [Lista zadań](ListaZadan/12_ListaGAM.md)
