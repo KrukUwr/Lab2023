@@ -103,3 +103,4 @@
 ## Laboratorium 11 - GLM-Logit, IV, WoE
 
 - [Lista zadań](ListaZadan/11_ListaGLM.md)
+- [Rozwiązania](ListaZadan/11_Lista_rozwiazania.r)
