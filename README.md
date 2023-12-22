@@ -23,7 +23,7 @@
 >   - zarys podejścia do rozwiązania problemu (opis, wykresy, grafiki);
 >   - przyjęte założenia (definicja, horyzonty, jednostki statystyczne, miary jakości, etc.);
 >   - rozwiązanie;
->   - wnioski z rozwiązaniem problemu (statystyczne i przede wszystkim biznesowe);
+>   - wnioski z rozwiązania problemu (statystyczne i przede wszystkim biznesowe);
 >   - ryzyka związane z wybranym podejściem do rozwiązania;
 >   - dodatkowe sprawdzenia, które nie trafiły do ostatecznego rozwiązania.
 
