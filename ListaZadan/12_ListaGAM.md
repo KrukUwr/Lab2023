@@ -35,5 +35,5 @@ Zbuduj na próbie uczącej oraz przetestuj na próbie testowej uogólniony model
 Porównaj moc predykcyjną modeli klasyfikacyjnych z poprzedniego punktu za pomocą:
 * Krzywych ROC oraz pochodnymi miarami 
 * Testu McNemara
-* Testu t z próbkowaniem w parach
+* Testu *t* z próbkowaniem w parach
 Czy można wskazać model statystycznie istotnie lepszy od pozostałych?
