@@ -28,4 +28,12 @@ Zbuduj na próbie uczącej oraz przetestuj na próbie testowej uogólniony model
 * Dla każdego modelu przeanalizuj wykresy cząstkowej predykcji (*partial prediction plots*) – które cechy najsilniej wpływają na dobroć klientów?
 * W przypadku modelu logitowego narysuj wykres krzywej ROC i zinterpretuj bazujące na nim miary jakości modelu. 
 * Który model jest lepszy ze statystycznego punktu widzenia (*explained deviance*, *residual sum of squares*, *AIC* lub inne), a który lepiej prognozuje wpłaty?
-* W każdym z podejść sprawdź czy nie wystąpiło zjawisko „współkrzywoliniowości” (*concurvity*). 
+* W każdym z podejść sprawdź czy nie wystąpiło zjawisko „współkrzywoliniowości” (*concurvity*).
+
+## Zadanie 3. 
+
+Porównaj moc predykcyjną modeli klasyfikacyjnych z poprzedniego punktu za pomocą:
+* Krzywych ROC oraz pochodnymi miarami 
+* Testu McNemara
+* Testu t z próbkowaniem w parach
+Czy można wskazać model statystycznie istotnie lepszy od pozostałych?
