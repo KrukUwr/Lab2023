@@ -105,6 +105,6 @@
 - [Lista zadań](ListaZadan/11_ListaGLM.md)
 - [Rozwiązania](ListaZadan/11_ListaRozwiazania.r)
 
-## Laboratorium 12 - GAM, GAM-Logit, portfele, concurvity
+## Laboratorium 12 - GAM, GAM-Logit, portfele, concurvity, porównywanie klasyfikatorów
 
 - [Lista zadań](ListaZadan/12_ListaGAM.md)
