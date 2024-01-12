@@ -79,7 +79,7 @@
 ## Laboratorium 7
 
 - [Lista zadań](ListaZadan/lab7/lista-lab7.md)
-- [Rozwiązania](ListaZadan/lab6/lab7-rozwiazania.R) 
+- [Rozwiązania](ListaZadan/lab7/lab7-rozwiazania.R) 
 
 ## Laboratorium 8 - analiza głównych składowych
 
